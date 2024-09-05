@@ -1,0 +1,10 @@
+/index.html
+/404.html
+/data.json
+/css
+  /stle.css
+/js
+  /script.js
+/images
+/fonts
+/webfonts

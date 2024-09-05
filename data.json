@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "description": "... portfolio website",
+    "title": "portfolio"
+  },
+  "header": {
+    "logoText": "logo",
+    "logo": "logo.webp",
+    "email": "example@gmail.com",
+    "navigation": [
+      {
+        "name": "about-me",
+        "icon": "fa-solid fa-id-card"
+      },
+      {
+        "name": "skills",
+        "icon": "fa-solid fa-screwdriver-wrench"
+      },
+      {
+        "name": "portfolio",
+        "icon": "fa-solid fa-briefcase"
+      },
+      {
+        "name": "contact",
+        "icon": "fa-solid fa-headset"
+      }
+    ]
+  },
+  "heroSection": {
+    "image": "main-img.webp",
+    "name": "Admin name",
+    "title": "web developer",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem totam tenetur aperiam facilis obcaecati voluptates adipisci fuga sit illum aliquam odit facere quisquam ab, iste eligendi voluptatibus deleniti maiores magnam?"
+  },
+  "aboutMe": {
+    "title": "ABOUT ME",
+    "personalInfos": {
+      "firstName": "first N",
+      "lastName": "second N",
+      "age": "20 years",
+      "nationality": "Egyptian",
+      "freelance": "available",
+      "address": "Egypt",
+      "phone": "+20123456789",
+      "email": "example@gmail.com",
+      "instagram": "user",
+      "languages": "arabic, english"
+    },
+    "cv": "user.pdf",
+    "statistics": [
+      {
+        "num": "2",
+        "title": "years of experience"
+      },
+      {
+        "num": "40",
+        "title": "completed projects"
+      },
+      {
+        "num": "0",
+        "title": "happy customers"
+      },
+      {
+        "num": "1",
+        "title": "awards won"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "HTML",
+      "percentage": "98"
+    },
+    {
+      "name": "CSS",
+      "percentage": "96"
+    },
+    {
+      "name": "JS",
+      "percentage": "90"
+    },
+    {
+      "name": "React.JS",
+      "percentage": "85"
+    },
+    {
+      "name": "Node.JS",
+      "percentage": "60"
+    },
+    {
+      "name": "MongoDB",
+      "percentage": "10"
+    }
+  ],
+  "experienceEducation": [
+    {
+      "year": "2022",
+      "icon": "fa-solid fa-code",
+      "title": "Web Development",
+      "place": "Self-Learning",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem totam tenetur aperiam facilis obcaecati voluptates adipisci fuga sit illum aliquam odit facere quisquam ab, iste eligendi voluptatibus deleniti maiores magnam?"
+    },
+    {
+      "year": "2023",
+      "icon": "fa-solid fa-code",
+      "title": "Web Development",
+      "place": "Self-Learning",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem totam tenetur aperiam facilis obcaecati voluptates adipisci fuga sit illum aliquam odit facere quisquam ab, iste eligendi voluptatibus deleniti maiores magnam?"
+    },
+    {
+      "year": "2021",
+      "icon": "fa-solid fa-video",
+      "title": "Web Development",
+      "place": "Self-Learning",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem totam tenetur aperiam facilis obcaecati voluptates adipisci fuga sit illum aliquam odit facere quisquam ab, iste eligendi voluptatibus deleniti maiores magnam?"
+    },
+    {
+      "year": "2020",
+      "icon": "fa-solid fa-pen-nib",
+      "title": "Web Development",
+      "place": "Self-Learning",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem totam tenetur aperiam facilis obcaecati voluptates adipisci fuga sit illum aliquam odit facere quisquam ab, iste eligendi voluptatibus deleniti maiores magnam?"
+    }
+  ],
+  "portfolio": {
+    "title": "WORKS",
+    "categories": ["All", "web", "design", "editing", "content"],
+    "projects": [
+      {
+        "title": "Project 1",
+        "category": "web",
+        "image": "web/product-management-system.webp",
+        "link": "https://josamcode.github.io/ProductManagementSystem/"
+      },
+      {
+        "title": "Project 2",
+        "category": "web",
+        "image": "web/easybank-landing-page.webp",
+        "link": "https://josamcode.github.io/Easybank-landing-page/"
+      },
+      {
+        "title": "Project 3",
+        "category": "web",
+        "image": "web/todo-list.webp",
+        "link": "https://josamcode.github.io/TodoList/"
+      },
+      {
+        "title": "Project 4",
+        "category": "web",
+        "image": "web/weather-application.webp",
+        "link": "https://josamcode.github.io/WeatherApplication/"
+      },
+      {
+        "title": "Project 5",
+        "category": "web",
+        "image": "web/creative-web-agency.webp",
+        "link": "https://josamcode.github.io/Creative-Web-Agency/"
+      },
+      {
+        "title": "Project 6",
+        "category": "web",
+        "image": "web/manage-landing-page.webp",
+        "link": "https://josamcode.github.io/manage-landing-page/"
+      },
+      {
+        "title": "design 1",
+        "category": "design",
+        "image": "design/1.webp"
+      },
+      {
+        "title": "design 2",
+        "category": "design",
+        "image": "design/2.webp"
+      },
+      {
+        "title": "design 3",
+        "category": "design",
+        "image": "design/1.webp"
+      },
+      {
+        "title": "design 4",
+        "category": "design",
+        "image": "design/2.webp"
+      },
+      {
+        "title": "design 5",
+        "category": "design",
+        "image": "design/1.webp"
+      },
+      {
+        "title": "design 6",
+        "category": "design",
+        "image": "design/2.webp"
+      }
+    ]
+  },
+  "contact": {
+    "title": "dont be shy!",
+    "description": "If you're looking for a standout website development or to enhance your current website, I'm here to help create your company's website or application, Contact me.",
+    "address": "Minya - Egypt",
+    "phone": "+201204770940",
+    "email": "gergessamuel100",
+    "social": [
+      {
+        "ariaLabel": "LinkedIn profile",
+        "link": "https://www.linkedin.com/in/gerges-samuel",
+        "icon": "fa-brands fa-linkedin"
+      },
+      {
+        "ariaLabel": "GitHub profile",
+        "link": "https://github.com/josam100",
+        "icon": "fa-brands fa-github"
+      },
+      {
+        "ariaLabel": "Instagram account",
+        "link": "https://www.instagram.com/gerges_s_gabra/",
+        "icon": "fa-brands fa-instagram"
+      },
+      {
+        "ariaLabel": "Facebook account",
+        "link": null,
+        "icon": "fa-brands fa-facebook"
+      },
+      {
+        "ariaLabel": "YouTube Channel",
+        "link": null,
+        "icon": "fa-brands fa-youtube"
+      }
+    ]
+  },
+  "blog": {
+    "title": "posts",
+    "posts": [
+      {
+        "title": "How to learn programming in 2024.",
+        "image": "blog/blog-03.webp",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem totam tenetur aperiam facilis obcaecati voluptates adipisci fuga sit illum aliquam odit facere quisquam ab, iste eligendi voluptatibus deleniti maiores magnam?",
+        "url": "1.html"
+      },
+      {
+        "title": "Frontend Development roadmap",
+        "image": "blog/blog-01.webp",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem totam tenetur aperiam facilis obcaecati voluptates adipisci fuga sit illum aliquam odit facere quisquam ab, iste eligendi voluptatibus deleniti maiores magnam?",
+        "url": "2.html"
+      },
+      {
+        "title": "how to use ai tools.",
+        "image": "blog/blog-02.webp",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem totam tenetur aperiam facilis obcaecati voluptates adipisci fuga sit illum aliquam odit facere quisquam ab, iste eligendi voluptatibus deleniti maiores magnam?"
+      }
+    ]
+  }
+}
