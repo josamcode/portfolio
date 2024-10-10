@@ -413,3 +413,18 @@ function scrollToElement(elementId) {
 function gotopage(url) {
   window.location.href = url;
 }
+
+/* ==========================================
+            Alert Box
+ ========================================== */
+
+let alertBtnBox = document.getElementById("alert-btn-box");
+let alert = document.getElementById("alert");
+let header = document.getElementById("header");
+let heroSection = document.getElementById("hero-section");
+
+alertBtnBox.addEventListener("click", () => {
+  alert.style.display = "none";
+  header.style.top = "0";
+  heroSection.style.marginTop = "60px";
+});

@@ -1,12 +1,12 @@
 {
   "meta": {
-    "description": "... portfolio website",
-    "title": "portfolio"
+    "description": "Jo Sam portfolio website",
+    "title": "Jo Sam"
   },
   "header": {
-    "logoText": "logo",
+    "logoText": "Jo.Sam",
     "logo": "logo.webp",
-    "email": "example@gmail.com",
+    "email": "gergessamuel100@gmail.com",
     "navigation": [
       {
         "name": "about-me",
@@ -27,26 +27,26 @@
     ]
   },
   "heroSection": {
-    "image": "main-img.webp",
-    "name": "Admin name",
-    "title": "web developer",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem totam tenetur aperiam facilis obcaecati voluptates adipisci fuga sit illum aliquam odit facere quisquam ab, iste eligendi voluptatibus deleniti maiores magnam?"
+    "image": "my-main-img.webp",
+    "name": "Gerges Samuel",
+    "title": "Full Stack Developer",
+    "description": "Full stack developer . I have over two years of experience in web development, during which I have implemented several projects and learned a lot. I am proficient in various front-end and back-end web development technologies, including HTML, CSS, JavaScript, ReactJS, Tailwind, Bootstrap, Node.js, Express.js, MongoDB, And many other technologies."
   },
   "aboutMe": {
     "title": "ABOUT ME",
     "personalInfos": {
-      "firstName": "first N",
-      "lastName": "second N",
-      "age": "20 years",
+      "firstName": "Gerges",
+      "lastName": "Samuel",
+      "age": "17.7 years",
       "nationality": "Egyptian",
       "freelance": "available",
       "address": "Egypt",
-      "phone": "+20123456789",
-      "email": "example@gmail.com",
-      "instagram": "user",
+      "phone": "+201204770940",
+      "email": "gergessamuel100",
+      "instagram": "gerges_s_gabra",
       "languages": "arabic, english"
     },
-    "cv": "user.pdf",
+    "cv": "gerges-samuel-cv.pdf",
     "statistics": [
       {
         "num": "2",
@@ -96,30 +96,30 @@
     {
       "year": "2022",
       "icon": "fa-solid fa-code",
-      "title": "Web Development",
+      "title": "Frontend Development",
       "place": "Self-Learning",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem totam tenetur aperiam facilis obcaecati voluptates adipisci fuga sit illum aliquam odit facere quisquam ab, iste eligendi voluptatibus deleniti maiores magnam?"
+      "description": "Gained proficiency in frontend technologies such as HTML, CSS, JavaScript, and frameworks like React and Vue, enhancing web design capabilities."
     },
     {
       "year": "2023",
       "icon": "fa-solid fa-code",
-      "title": "Web Development",
+      "title": "Backend Development",
       "place": "Self-Learning",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem totam tenetur aperiam facilis obcaecati voluptates adipisci fuga sit illum aliquam odit facere quisquam ab, iste eligendi voluptatibus deleniti maiores magnam?"
+      "description": "Mastered backend development skills, covering server-side programming, databases, and APIs, advancing from frontend expertise."
     },
     {
       "year": "2021",
       "icon": "fa-solid fa-video",
-      "title": "Web Development",
+      "title": "Video Editing",
       "place": "Self-Learning",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem totam tenetur aperiam facilis obcaecati voluptates adipisci fuga sit illum aliquam odit facere quisquam ab, iste eligendi voluptatibus deleniti maiores magnam?"
+      "description": "Acquired video editing skills using tools like Adobe Premiere Pro and After Effects, fostering content creation abilities for multimedia projects."
     },
     {
       "year": "2020",
       "icon": "fa-solid fa-pen-nib",
-      "title": "Web Development",
+      "title": "Graphic Design",
       "place": "Self-Learning",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem totam tenetur aperiam facilis obcaecati voluptates adipisci fuga sit illum aliquam odit facere quisquam ab, iste eligendi voluptatibus deleniti maiores magnam?"
+      "description": "Explored graphic design fundamentals, including layout, typography, and visual communication, laying the groundwork for creative projects."
     }
   ],
   "portfolio": {
@@ -127,70 +127,96 @@
     "categories": ["All", "web", "design", "editing", "content"],
     "projects": [
       {
-        "title": "Project 1",
+        "title": "Product Management System",
         "category": "web",
         "image": "web/product-management-system.webp",
         "link": "https://josamcode.github.io/ProductManagementSystem/"
       },
       {
-        "title": "Project 2",
+        "title": "Easy Landing Page",
         "category": "web",
         "image": "web/easybank-landing-page.webp",
         "link": "https://josamcode.github.io/Easybank-landing-page/"
       },
       {
-        "title": "Project 3",
+        "title": "To-do List",
         "category": "web",
         "image": "web/todo-list.webp",
         "link": "https://josamcode.github.io/TodoList/"
       },
       {
-        "title": "Project 4",
+        "title": "Weather Application",
         "category": "web",
         "image": "web/weather-application.webp",
         "link": "https://josamcode.github.io/WeatherApplication/"
       },
       {
-        "title": "Project 5",
+        "title": "Creative Web Agency",
         "category": "web",
         "image": "web/creative-web-agency.webp",
         "link": "https://josamcode.github.io/Creative-Web-Agency/"
       },
       {
-        "title": "Project 6",
+        "title": "Manage Landing Page",
         "category": "web",
         "image": "web/manage-landing-page.webp",
         "link": "https://josamcode.github.io/manage-landing-page/"
       },
       {
-        "title": "design 1",
+        "title": "Multi Step Form",
+        "category": "web",
+        "image": "web/multi-step-form.webp",
+        "link": "https://josamcode.github.io/Multi-step-form/"
+      },
+      {
+        "title": "Thumbnail",
         "category": "design",
         "image": "design/1.webp"
       },
       {
-        "title": "design 2",
+        "title": "Burger design",
         "category": "design",
         "image": "design/2.webp"
       },
       {
-        "title": "design 3",
+        "title": "Social media design",
         "category": "design",
-        "image": "design/1.webp"
+        "image": "design/3.webp"
       },
       {
-        "title": "design 4",
+        "title": "Logo design",
         "category": "design",
-        "image": "design/2.webp"
+        "image": "design/4.webp"
       },
       {
-        "title": "design 5",
+        "title": "Social media design",
         "category": "design",
-        "image": "design/1.webp"
+        "image": "design/5.webp"
       },
       {
-        "title": "design 6",
+        "title": "Jo logo design",
         "category": "design",
-        "image": "design/2.webp"
+        "image": "design/6.webp"
+      },
+      {
+        "title": "Jo 2 logo design",
+        "category": "design",
+        "image": "design/7.webp"
+      },
+      {
+        "title": "Social media design",
+        "category": "design",
+        "image": "design/8.webp"
+      },
+      {
+        "title": "Social media design",
+        "category": "design",
+        "image": "design/9.webp"
+      },
+      {
+        "title": "Social media design mockup",
+        "category": "design",
+        "image": "design/10.webp"
       }
     ]
   },
@@ -234,19 +260,19 @@
       {
         "title": "How to learn programming in 2024.",
         "image": "blog/blog-03.webp",
-        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem totam tenetur aperiam facilis obcaecati voluptates adipisci fuga sit illum aliquam odit facere quisquam ab, iste eligendi voluptatibus deleniti maiores magnam?",
-        "url": "1.html"
+        "description": "The first step in learning programming is setting a goal. Ask yourself: Do you want to try websites, apps, games, and cybersecurity?....",
+        "url": "how-to-learn-programing-in-2024.html"
       },
       {
         "title": "Frontend Development roadmap",
         "image": "blog/blog-01.webp",
-        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem totam tenetur aperiam facilis obcaecati voluptates adipisci fuga sit illum aliquam odit facere quisquam ab, iste eligendi voluptatibus deleniti maiores magnam?",
-        "url": "2.html"
+        "description": "Front-end development is one of the most popular fields in the world of programming. In this plan, we will go over how to learn front-end development...",
+        "url": "frontend-roadmap.html"
       },
       {
         "title": "how to use ai tools.",
         "image": "blog/blog-02.webp",
-        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem totam tenetur aperiam facilis obcaecati voluptates adipisci fuga sit illum aliquam odit facere quisquam ab, iste eligendi voluptatibus deleniti maiores magnam?"
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam quaerat reprehenderit"
       }
     ]
   }

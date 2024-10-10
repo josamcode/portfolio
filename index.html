@@ -3,18 +3,36 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="description will be here" />
-    <meta name="keywords" content="front-end developer, back-end developer" />
-    <meta property="og:title" content="Professional Portfolio Website" />
-    <meta property="og:description" content="description will be here" />
-    <meta property="og:image" content="images/main-img.webp" />
+    <meta
+      name="description"
+      content="Explore the professional portfolio of Jo Sam, an experienced Full Stack Developer skilled in HTML, CSS, JavaScript, React, Node.js, Express.js, and MongoDB. Discover his web development project / s and responsive design / s, self learning."
+    />
+    <meta
+      name="keywords"
+      content="Jo Sam, Full Stack Developer, web developer, portfolio, HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, web projects, responsive design, API integration, software development, front-end developer, back-end developer"
+    />
+    <meta
+      property="og:title"
+      content="Jo Sam - Professional Portfolio Website"
+    />
+    <meta
+      property="og:description"
+      content="Explore the professional portfolio of Jo Sam, showcasing web development projects and skills."
+    />
+    <meta property="og:image" content="images/my-main-img.webp" />
     <meta property="og:url" content="https://josam.rf.gd" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Professional Portfolio Website" />
-    <meta name="twitter:description" content="description will be here" />
+    <meta
+      name="twitter:title"
+      content="Jo Sam - Professional Portfolio Website"
+    />
+    <meta
+      name="twitter:description"
+      content="Explore the professional portfolio of Jo Sam, showcasing web development projects and skills."
+    />
     <meta name="twitter:image" content="images/my-main-img.webp" />
     <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
-    <title>Portfolio</title>
+    <title>Jo Sam - web development</title>
     <!-- ===================================>
                   FONT-AWESOME-LIBRARY
     <==================================== -->
@@ -24,8 +42,40 @@
       href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css"
       rel="stylesheet"
     />
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-XMX8G85ZFM"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-XMX8G85ZFM");
+    </script>
+    <script
+      type="text/javascript"
+      src="https://platform-api.sharethis.com/js/sharethis.js#property=6698c1f03ca64b0019342c44&product=inline-share-buttons&source=platform"
+      async="async"
+    ></script>
   </head>
   <body>
+    <!-- ===================================>
+                  ALERT
+    <==================================== -->
+
+    <div class="alert" id="alert">
+      <div class="container">
+        <p>incomplete (under development)</p>
+        <div class="btn-box" id="alert-btn-box">
+          <div class="line line-one"></div>
+          <div class="line line-two"></div>
+        </div>
+      </div>
+    </div>
+
     <!-- ===================================>
                   HEADER-SECTION
     <==================================== -->
@@ -62,7 +112,7 @@
       <div class="container">
         <div class="img">
           <img
-            src="images/main-img.webp"
+            src="images/my-main-img.webp"
             alt="my-main-img"
             class="my-main-img"
           />
